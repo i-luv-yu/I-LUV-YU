@@ -76,38 +76,6 @@
 - 기간 : 2019.01 ~ 2019.12
 - 매출 : 8,709,411원
 
-<img src='./images/ridibooks.png' width="80" />
-
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
-
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-### CALY
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
-
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-### Surfinger
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
 ## 오픈소스 기여
 
 ### PhotoEditor
@@ -145,35 +113,5 @@
 #### 세종대학교 메이커톤 2020 - 우수상
 - 수상 날짜 : 2020년 12
 
-#### 서울 스타트업 윅엔드 2019 - Creativity(2위)
-- 수상 날짜 : 2019년 11월
-
-#### 미세먼지 해커톤 - 우수상
-- 수상 날짜 : 2019년 6월
-
-#### 9xD GDG Planet 해커톤 - Best Helper(개인수상), Zone중하상 수상(팀)
-- 수상 날짜 : 2018년 9월
-
-#### Unithon 대학생 연합 해커톤 - NH 농협은행상
-- 수상 날짜 : 2018년 1월
-
-#### 오사카 스타트업 윅엔드 2017 - 1st Place(1위)
-- 해외 해커톤
-- 수상 날짜 : 2017년 12월
-
-#### 인천 글로벌 스타트업 윅엔드 2017 - 1st Place(1위)
-- 수상 날짜 : 2017년 10월 
-- 관련정보 : https://github.com/JSpiner/know-your-kids
-
-#### Unithon 대학생 연합 해커톤 - 최우수상
-- 수상 날짜: 2017년 2월
-- 관련정보 : https://github.com/unithon4th
-
-#### 강원랜드 메이커톤 - 대상(1등위)
-- 수상 날짜 : 2017년 1월
-
 <br/>
 <br/>
-
-### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
-(너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
