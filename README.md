@@ -110,27 +110,12 @@
 ### opencv 와 dlib 을 활용한 영상처리(python)
 - 화자의 입모양을 파악하여 말풍선을 입히는 기술
 - 청각장애인의 소통과 정확한 정보 전달을 위해 대화 속에서 현재 말하고 있는 화자를 파악하여 누가, 어떤 말을 하는지 한눈에 볼 수 있도록 하기 위함
-- 화자를 이미지 검색기술로 해당 화자가 누구인지 
-### SafeExecutor 
-- 개인 프로젝트
-- event 기반 error handler
-- test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
+- Transcribe API 텍스트 추출 및 화자를 이미지 검색기술로 해당 화자가 누구인지 파악
 
-### TedPermission [Contributor]
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
 
-### RxAndroid [Contributor]
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
-## 수상 경력
-취미로 해커톤을 종종 나가곤 합니다. <br/>
-**프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
-해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
-
-#### 세종대학교 메이커톤 2020 - 우수상
-- 수상 날짜 : 2020년 12
+#### 한이음 - 입선(휴대용수화번역기)
+- 수상 날짜 : 2019년 12월
 
 <br/>
 <br/>
