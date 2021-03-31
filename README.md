@@ -5,12 +5,10 @@
 ![status](https://img.shields.io/badge/working-brightgreen.svg)
 
 ## 소개
-![프로필이미지]()
 - 이름: 유형석
 - 취미: 끊임없이 생각하고 고민하고 실행에 옮기기
 - Email: luxury369@naver.com
 - GitHub: [github.com/I-LUV-YU](https://github.com/I-LUV-YU)
--
 ```
 항상 생각하고 고민하고 찾아보고 도전합니다. 
 ```
@@ -18,19 +16,20 @@
 
 ## 회사경력
 - 더존비즈온 (2013 ~ 현재)
-- 지나인INC 
-
-## 단체경력
-- 삼성소프트웨어멤버십 주니어 1기(2014)
-- 차세대보안리더 BoB 4기(2015)
-- 소프트웨어마에스트로 7기(2016 ~ 2017)
-- Mashup 개발동아리(2017 ~ 2018)
-
+- 지나인INC (2010 ~ 2013)
+- 
 ## 학력
 - 인하사대부고졸업
 - 성공회대학교 컴퓨터공학과 졸업(2009)
 
 ## 사용 기술
+### Backend & Frontend
+- C# - DotNetFrameWork
+- JS, CSS, HTML
+- python - flask/gunicorn
+- nodejs
+
+
 ### Android
 - Kotlin
 - rxJava
@@ -39,14 +38,6 @@
 - TravisCI + Deploy(CD)
 - lint + test code
 - 기타 : glide, picasso, retrofit, eventbus, stream...
-
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
 
 ### Frontend
 간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
@@ -70,13 +61,11 @@
 ## 프로젝트 이력
 
 
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
+### 클라우드 EDMS 서비스 
+- 소개: 
 
-## 오픈소스 기여
+
+## 개인프로젝트
 
 ### PhotoEditor
 - [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
