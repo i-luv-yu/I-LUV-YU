@@ -50,8 +50,11 @@
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
-하고 싶은거
+
+
 **MySQL의 데이터를 elasticsearch 와 싱크(sync)해서 빠른 검색과 분석테스트 및 적용
+- 
+**NoSQL과 RDBMS로 만들어진 복합 시스템 구축(application side join)
 
 
 
