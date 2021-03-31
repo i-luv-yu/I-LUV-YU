@@ -22,7 +22,7 @@
 ## 학력
 - 인하사대부고졸업
 - 성공회대학교 컴퓨터공학과 졸업(2009)
-- Emertex education 수료(Embbeded System - 2010) 
+- Emertex education in India 수료(Embbeded System - 2010) 
 
 ## 사용 기술
 ### Backend & Frontend
