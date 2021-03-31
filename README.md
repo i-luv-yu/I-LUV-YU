@@ -107,12 +107,10 @@
 -외부에서도 사용자가 앱으로 창문 제어 가능
 
 
-### CacheBank
-- 개인 프로젝트
-- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
-- test coverage 83%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
-
+### opencv 와 dlib 을 활용한 영상처리(python)
+- 화자의 입모양을 파악하여 말풍선을 입히는 기술
+- 청각장애인의 소통과 정확한 정보 전달을 위해 대화 속에서 현재 말하고 있는 화자를 파악하여 누가, 어떤 말을 하는지 한눈에 볼 수 있도록 하기 위함
+- 화자를 이미지 검색기술로 해당 화자가 누구인지 
 ### SafeExecutor 
 - 개인 프로젝트
 - event 기반 error handler
