@@ -10,7 +10,8 @@
 - Email: luxury369@naver.com
 - GitHub: [github.com/I-LUV-YU](https://github.com/I-LUV-YU)
 ```
-1. EDMS 시스템 구축에 따른 웹화면 개발
+1. EDMS 시스템 구축에 따른 웹, DB, Application 개발
+2. ARS 시스템 구축
 ```
 
 
