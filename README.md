@@ -10,7 +10,7 @@
 - Email: luxury369@naver.com
 - GitHub: [github.com/I-LUV-YU](https://github.com/I-LUV-YU)
 ```
-항상 생각하고 고민하고 찾아보고 도전합니다. 
+1. EDMS 시스템 구축에 따른 웹화면 개발
 ```
 
 
@@ -65,15 +65,38 @@
 - 소개: 
 
 
+
+
 ## 개인프로젝트
 
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
+### 청각장애인을 위한 휴대용 수화 통역기
+- Google Inception(GoogLeNet) CNN 알고리즘 사용
+- Kinect SkeletalTracking Fundamentals
+- Using Kinect for Windows with MATLAB
+- 특허: 10-2019-0164586
+【발명의 국문명칭】휴대용 수화 번역기 및 수화 번역 방법
+【발명의 영문명칭】PORTABLE SIGN LANGUAUGE TRANSLATOR AND SIGN LANGUAUGE TRANSLATION METHOD USING THE SAME
 
-### ZeplinDiff
-- 개인 프로젝트
-- 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/ZeplinDiff)에서 보실 수 있습니다.
+### 날씨에 따른 자동개폐창문
+1.집 내부와 외부의 미세먼지 농도를 자동으로 판단하여 창문을 제어
+- 내부 > 외부 ⇒ 창문 닫힘
+- 외부 > 내부 ⇒ 창문 열림
+- 내부는 센서로, 외부는openweather API를 통해 값을 받아온다.
+2.비 여부를 자동으로 판단하여 창문 제어
+- 비 여부는 빗물센서로 감지
+- openweather API는 받아서 앱으로 정보만 송신
+3.앱으로 사용자가 창문 제어 가능
+- 수동/자동 모드
+- 수동 ⇒ 열림/닫힘 모드
+4.앱으로 특정 시간대에 열고 닫을 수 있는 설정 가능
+(원하는 시간대에 여닫힘 기능 설정 할 수 있도록 한다.)
+5.앱에서 미세먼지 내부, 외부 농도 확인 및 우천여부 확인
+6.앱과 비 여부, 미세먼지에 우선순위를 정하여 상황에 따른 제어가 가능하도록 한다.
+7.되도록 실제 창문 또는 그 크기의 사이즈에 구현 할 수 있도록 한다.
+8.모터에 래크와 기어를 이용하여 개폐작동을 구현
+9.라즈베리파이와 앱에서 서버에 데이터를 송수신
+10.외부에서도 사용자가 앱으로 창문 제어 가능
+
 
 ### CacheBank
 - 개인 프로젝트
