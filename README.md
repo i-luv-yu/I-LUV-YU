@@ -34,27 +34,23 @@
 
 ### Android
 - Jquery Mobile
-- rxJava
-- MVP, MVVM Pattern
-- DataBinding
-- TravisCI + Deploy(CD)
-- lint + test code
+- SDK, NDK
 
 
 ### Process
-- 모니터링 - Fabric / Google Analytics
-- 커뮤니케이션 - Slack
-- 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello / Asana
-- CI/CD - TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 버전관리 - Git/GitFlow를 애용합니다.
+
+- 이슈관리 - jira & confluence 담당
+- 버전관리 - TortoiseSVN / Team Foundation Server
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 
 
+### 너무 하고싶은거
+
 **MySQL의 데이터를 elasticsearch 와 싱크(sync)해서 빠른 검색과 분석테스트 및 적용
-- 
-**NoSQL과 RDBMS로 만들어진 복합 시스템 구축(application side join)
+
+**NoSQL과 RDBMS로 만들어진 복합 시스템 운(application side join)
 
 
 
