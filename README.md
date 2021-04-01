@@ -6,7 +6,7 @@
 
 ## 소개
 - 이름: 유형석
-- 취미: 끊임없이 생각하고 고민하고 실행에 옮기기
+- 취미: 끊임없이 생각하고 고민하고 실행에 옮기기, 반복적인 패턴은 패턴학습을 통한 무조건 자동화
 - Email: luxury369@naver.com
 - GitHub: [github.com/I-LUV-YU](https://github.com/I-LUV-YU)
 ```
