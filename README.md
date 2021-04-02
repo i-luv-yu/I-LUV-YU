@@ -76,6 +76,10 @@
 
 ## 개인프로젝트
 
+### (작업중) webRTC를 활용한 모션 제스쳐 확인
+- 
+
+
 ### 청각장애인을 위한 휴대용 수화 통역기
 - Google Inception(GoogLeNet) CNN 알고리즘 사용
 - Kinect SkeletalTracking Fundamentals
