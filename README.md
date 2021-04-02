@@ -8,7 +8,7 @@
 - 이름: 유형석
 - 취미: 끊임없이 생각하고 고민하고 실행에 옮기기, 반복적인 패턴은 패턴학습을 통한 무조건 자동화
 - Email: luxury369@naver.com
-- GitHub: [github.com/I-LUV-YU](https://github.com/I-LUV-YU)
+- GitHub: [github.com/I-LUV-YU](https://github.com/i-luv-yu)
 ```
 1. EDMS 시스템 구축에 따른 웹, DB, Application 개발
 2. ARS 시스템 구축
@@ -29,7 +29,7 @@
 - C# - DotNetFrameWork
 - JS, CSS, HTML
 - python - flask/gunicorn
-- nodejs
+- nodejs, React
 - MFC
 
 ### Android
@@ -60,10 +60,19 @@
 
 
 ### 클라우드 EDMS 서비스 
-- 소개: 
+- 소개: 클라우드 
+- 클라우드 EDMS 시스템의 서버의 안정적 운영 및 요구사항 에 따른 웹, 웹서비스 개발, 모의 해킹및 보안 취약점 개선 작업 
 
 
+### ARS 시스템 개발 및 구축
+- 소개: 클라우드 EDMS ARS 인증시스템, 전남도청 문서 동시전송 ARS 시스템구축, 에스원 MVNO ARS 팩스 시스템 구축, 경찰청 KICS MVNO연동 ARS 시스템 구축 
+- 클라우팩스 ARS 인증 시스템 구축(ARS 모듈 개발 및 WEB 화면 개발), 전남도청 동시전송시스템 구축, 에스원 MVNO 연동 팩스 시스템 구축, 경찰청  MVNO연동 ARS 시스템 구축
 
+### 한국전력공사
+- 소개:  SMS 수신 연동 WEB 화면 개발, 팩스 EDMS 모듈 개발 
+- SMS 수신이미지 WEB 연동 및 팩스 EDMS 연동 모듈 개발
+
+### 금융권(한국은행, 삼성화재, KEB하나은행, 미래에셋생명, 및
 
 ## 개인프로젝트
 
@@ -74,6 +83,19 @@
 - 특허: 10-2019-0164586
 【발명의 국문명칭】휴대용 수화 번역기 및 수화 번역 방법
 【발명의 영문명칭】PORTABLE SIGN LANGUAUGE TRANSLATOR AND SIGN LANGUAUGE TRANSLATION METHOD USING THE SAME
+
+
+
+### Amazon Rekognition API를 활용한  카메라로 수집된 화자의 연령과 성별 정보를 추출하여 필요한 광고를 제공
+- 광고주는 앱을 통해 영상에 대한 광고 신청 
+- Amazon EC2/S3 를 활용 
+- Transcribe API 텍스트 추출 및 화자를 이미지 검색기술로 해당 화자가 누구인지 파악
+
+
+### opencv 와 dlib 을 활용한 영상처리(python)
+- 화자의 입모양을 파악하여 화자 옆에 말풍선을 띄워 텍스트를 입히는 프로젝트
+- 청각장애인의 소통과 정확한 정보 전달을 위해 대화 속에서 현재 말하고 있는 화자를 파악하여 누가, 어떤 말을 하는지 한눈에 볼 수 있도록 하기 위함
+- 영상에 모든 텍스트를 Transcribe API 로 추출 하여 자막을 입힘 
 
 ### 날씨에 따른 자동개폐창문
 [집 내부와 외부의 미세먼지 농도를 자동으로 판단하여 창문을 제어]
@@ -102,11 +124,6 @@
 -라즈베리파이와 앱에서 서버에 데이터를 송수신
 -외부에서도 사용자가 앱으로 창문 제어 가능
 
-
-### opencv 와 dlib 을 활용한 영상처리(python)
-- 화자의 입모양을 파악하여 말풍선을 입히는 기술
-- 청각장애인의 소통과 정확한 정보 전달을 위해 대화 속에서 현재 말하고 있는 화자를 파악하여 누가, 어떤 말을 하는지 한눈에 볼 수 있도록 하기 위함
-- Transcribe API 텍스트 추출 및 화자를 이미지 검색기술로 해당 화자가 누구인지 파악
 
 
 
