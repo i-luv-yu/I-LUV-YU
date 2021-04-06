@@ -28,7 +28,7 @@
 ### Backend & Frontend
 - C# - DotNetFrameWork
 - JS, CSS, HTML
-- python - flask/gunicorn
+- python - Flask & Nginx & Gunciorn 
 - nodejs, React
 - MFC
 
