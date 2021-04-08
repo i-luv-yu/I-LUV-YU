@@ -50,7 +50,7 @@
 
 **MySQL의 데이터를 elasticsearch 와 싱크(sync)해서 빠른 검색과 분석테스트 및 적용
 
-**NoSQL과 RDBMS로 만들어진 복합 시스템 운(application side join)
+**NoSQL과 RDBMS로 만들어진 복합 시스템 운영(application side join)
 
 
 
