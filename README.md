@@ -25,7 +25,7 @@
 - Emertex education in India 수료(Embbeded System - 2010) 
 
 ## 사용 기술
-### Backend & Frontend
+### backEnd .. frontEnd
 - C# - DotNetFrameWork
 - JS, CSS, HTML
 - python - Flask & Nginx & Gunciorn 
